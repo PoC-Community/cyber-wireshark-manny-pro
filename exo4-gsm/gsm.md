@@ -11,9 +11,9 @@ What is the message hidden, the number sending it and the recipient ?
 _You should probably what GSMTAP et TP-UD are ;)_
 
 **Answer Expected** :  
->FROM : +33XXXXXXXXX  
->TO : +33XXXXXXXXX  
->MESSAGE : It's cool !
+FROM : +33100000007
+TO : +33200000007
+MESSAGE : GSM is Awesome !
 
 ## 📂 File provided
 
