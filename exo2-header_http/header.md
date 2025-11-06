@@ -13,6 +13,7 @@ Find the username and password of the user who made these requests!
 
 Answer expected:
 ```
+username:password
 titi:toto
 ```
 
